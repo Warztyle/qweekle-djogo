@@ -6912,7 +6912,7 @@ table.table-caddy > tfoot > tr > td {
 		flex-direction: row;
 		margin: 0;
 		padding: 0;
-		background-color: transparent;
+		background-color: #F3E9DA;
 	}
 	#content-loader #ticketing .panel-body {
 		width: 75%;
@@ -7698,3 +7698,4 @@ table.table-caddy > tfoot > tr > td {
 	#content-loader #locations .location-item > .row > div .location-btn {}
 
 }
+
