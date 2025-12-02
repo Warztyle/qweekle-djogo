@@ -5,7 +5,7 @@
 	/* Body */
 	--bg-color: #f7f7f7;
 	/*--bg-gradient: none;*/
-	--bg-gradient: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+	--bg-gradient: #F3E9DA;
 
 	--font-family: "Poppins", sans-serif;
 	/*--font-family: "Roboto", sans-serif;*/
@@ -7698,4 +7698,5 @@ table.table-caddy > tfoot > tr > td {
 	#content-loader #locations .location-item > .row > div .location-btn {}
 
 }
+
 
