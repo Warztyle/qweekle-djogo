@@ -37,11 +37,11 @@
 	--default-contrast-color: #fff;
 
 	/* Primary : CTA lvl2 */
-	--primary-color: #273469;
+	--primary-color: #F3E9DA;
 	--primary-contrast-color: #fff;
 
 	/* Secondary : CTA lvl3 */
-	--secondary-color: #ee6c4d;
+	--secondary-color: #F3E9DA;
 	--secondary-contrast-color: #fff;
 
 	--danger-color: #ff595e;
@@ -1908,7 +1908,7 @@ fieldset[disabled] a.btn {
 
 .btn-default {
 	color: var(--default-contrast-color);
-	background-color: var(--main-color);
+	background-color: var(--default-color);
 	border-color: transparent;
 }
 
@@ -7708,6 +7708,7 @@ table.table-caddy > tfoot > tr > td {
 	#content-loader #locations .location-item > .row > div .location-btn {}
 
 }
+
 
 
 
