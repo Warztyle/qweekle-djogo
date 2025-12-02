@@ -1,6 +1,14 @@
 /*@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
+@font-face {
+    font-family: "antipov-vf";
+    src: url("https://cdn.prod.website-files.com/68ece6aa03f05ee922d4f950/68ff560472e052c442f09563_fonnts.com-Antipol_VF_Italic.otf") format("opentype");
+    font-weight: normal; /* ou spécifiez les poids disponibles */
+    font-style: italic; /* ou 'normal' */
+    font-display: swap; /* Bonne pratique pour l'affichage */
+}
+
 :root {
 	/* Body */
 	--bg-color: #F3E9DA;
@@ -9,6 +17,9 @@
 
 	--font-family: "Poppins", sans-serif;
 	/*--font-family: "Roboto", sans-serif;*/
+
+    --font-family-custom-cta: "antipov-vf", sans-serif; 
+	/*--font-family-custom-cta: "antipov-vf", sans-serif;*/
 
 	--navbar-color: transparent;
 
@@ -1958,6 +1969,7 @@ fieldset[disabled] .btn-default:hover {
 	color: var(--primary-contrast-color);
 	background-color: var(--primary-color);
 	border-color: transparent;
+	font-family: var(--font-family-custom-cta);
 }
 
 .btn-primary.focus,
@@ -7698,6 +7710,7 @@ table.table-caddy > tfoot > tr > td {
 	#content-loader #locations .location-item > .row > div .location-btn {}
 
 }
+
 
 
 
