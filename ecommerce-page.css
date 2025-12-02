@@ -3,7 +3,7 @@
 
 :root {
 	/* Body */
-	--bg-color: #f7f7f7;
+	--bg-color: #F3E9DA;
 	/*--bg-gradient: none;*/
 	--bg-gradient: #F3E9DA;
 
@@ -7698,5 +7698,6 @@ table.table-caddy > tfoot > tr > td {
 	#content-loader #locations .location-item > .row > div .location-btn {}
 
 }
+
 
 
