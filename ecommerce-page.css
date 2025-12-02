@@ -13,19 +13,19 @@
 	--navbar-color: transparent;
 
 	/* panel */
-	--bg-contrast-color: #fff;
+	--bg-contrast-color: ##000000;
 
 	/* panel heading & hover */
-	--bg-secondary-color: #fff;
+	--bg-secondary-color: ##000000;
 	--text-secondary-color: #333;
 
 	/* Text */
-	--text-color: #333;
+	--text-color: ##000000;
 	--text-muted-color: #6c757d;
 
 	/* Default : CTA lvl1 */
-	--default-color: #1e2749;
-	--default-contrast-color: #fff;
+	--default-color: #000000;
+	--default-contrast-color: #000000;
 
 	/* Primary : CTA lvl2 */
 	--primary-color: #273469;
@@ -7699,3 +7699,4 @@ table.table-caddy > tfoot > tr > td {
 
 
 }
+
