@@ -3,7 +3,7 @@
 
 :root {
 	/* Body */
-	--bg-color: #F4E9DA;
+	--bg-color: #000000;
 	/*--bg-gradient: none;*/
 	--bg-gradient: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
 
@@ -7699,4 +7699,5 @@ table.table-caddy > tfoot > tr > td {
 
 
 }
+
 
