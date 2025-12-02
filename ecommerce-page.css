@@ -5,7 +5,7 @@
     font-family: "antipov-vf";
     src: url("https://cdn.prod.website-files.com/68ece6aa03f05ee922d4f950/68ff560472e052c442f09563_fonnts.com-Antipol_VF_Italic.otf") format("opentype");
     font-weight: normal; /* ou spécifiez les poids disponibles */
-    font-style: italic; /* ou 'normal' */
+    font-style: normal; /* ou 'italic' */
     font-display: swap; /* Bonne pratique pour l'affichage */
 }
 
@@ -7707,6 +7707,7 @@ table.table-caddy > tfoot > tr > td {
 	#content-loader #locations .location-item > .row > div .location-btn {}
 
 }
+
 
 
 
