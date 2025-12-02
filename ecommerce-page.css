@@ -15,11 +15,8 @@
 	/*--bg-gradient: none;*/
 	--bg-gradient: #F3E9DA;
 
-	--font-family: "Poppins", sans-serif;
-	/*--font-family: "Roboto", sans-serif;*/
-
-    --font-family-custom-cta: "antipov-vf", sans-serif; 
-	/*--font-family-custom-cta: "antipov-vf", sans-serif;*/
+	--font-family: "antipov-vf", sans-serif; 
+	/*--font-family: "antipov-vf", sans-serif;*/
 
 	--navbar-color: transparent;
 
@@ -7710,6 +7707,7 @@ table.table-caddy > tfoot > tr > td {
 	#content-loader #locations .location-item > .row > div .location-btn {}
 
 }
+
 
 
 
