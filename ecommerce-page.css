@@ -2848,6 +2848,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 	position: relative;
 	font-size: 0;
 	white-space: nowrap;
+	background-color: #FD3909;
 }
 
 .input-group-btn > .btn {
@@ -7707,6 +7708,7 @@ table.table-caddy > tfoot > tr > td {
 	#content-loader #locations .location-item > .row > div .location-btn {}
 
 }
+
 
 
 
