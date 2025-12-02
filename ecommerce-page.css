@@ -19,6 +19,7 @@
 	/*--font-family: "antipov-vf", sans-serif;*/
 
 	--navbar-color: transparent;
+	--main-color: #F3E9DA;
 
 	/* panel */
 	--bg-contrast-color: #fff;
@@ -1907,7 +1908,7 @@ fieldset[disabled] a.btn {
 
 .btn-default {
 	color: var(--default-contrast-color);
-	background-color: var(--default-color);
+	background-color: var(--main-color);
 	border-color: transparent;
 }
 
@@ -2848,7 +2849,6 @@ textarea.input-group-sm > .input-group-btn > .btn {
 	position: relative;
 	font-size: 0;
 	white-space: nowrap;
-	background-color: #FD3909;
 }
 
 .input-group-btn > .btn {
@@ -7708,6 +7708,7 @@ table.table-caddy > tfoot > tr > td {
 	#content-loader #locations .location-item > .row > div .location-btn {}
 
 }
+
 
 
 
