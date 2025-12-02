@@ -37,11 +37,11 @@
 	--default-contrast-color: #fff;
 
 	/* Primary : CTA lvl2 */
-	--primary-color: #F3E9DA;
+	--primary-color: #FD3909;
 	--primary-contrast-color: #fff;
 
 	/* Secondary : CTA lvl3 */
-	--secondary-color: #F3E9DA;
+	--secondary-color: #FD3909;
 	--secondary-contrast-color: #fff;
 
 	--danger-color: #ff595e;
@@ -7708,6 +7708,7 @@ table.table-caddy > tfoot > tr > td {
 	#content-loader #locations .location-item > .row > div .location-btn {}
 
 }
+
 
 
 
