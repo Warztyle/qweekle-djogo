@@ -3,7 +3,7 @@
 
 :root {
 	/* Body */
-	--bg-color: #000000;
+	--bg-color: #f7f7f7;
 	/*--bg-gradient: none;*/
 	--bg-gradient: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
 
@@ -13,19 +13,19 @@
 	--navbar-color: transparent;
 
 	/* panel */
-	--bg-contrast-color: ##000000;
+	--bg-contrast-color: #fff;
 
 	/* panel heading & hover */
-	--bg-secondary-color: ##000000;
+	--bg-secondary-color: #fff;
 	--text-secondary-color: #333;
 
 	/* Text */
-	--text-color: ##000000;
+	--text-color: #333;
 	--text-muted-color: #6c757d;
 
 	/* Default : CTA lvl1 */
-	--default-color: #000000;
-	--default-contrast-color: #000000;
+	--default-color: #1e2749;
+	--default-contrast-color: #fff;
 
 	/* Primary : CTA lvl2 */
 	--primary-color: #273469;
@@ -7697,6 +7697,4 @@ table.table-caddy > tfoot > tr > td {
 
 	#content-loader #locations .location-item > .row > div .location-btn {}
 
-
 }
-
